@@ -13,12 +13,6 @@ export default {
         "/sources/calendario365/moon_2020.txt",
         "/sources/calendario365/moon_2021.txt"
       ]
-    },
-    "newSource": {
-      "url": "http:///example.com",
-      "files": [
-        "/sources/newsource/example.txt"
-      ]
     }
   }
   }
